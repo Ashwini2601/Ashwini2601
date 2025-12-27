@@ -1,4 +1,4 @@
-![Professional Banner](https://raw.githubusercontent.com/kha7iq/kha7iq/main/assets/banner.png)
+![Professional Banner](https://raw.githubusercontent.com/kha7iq/kha7iq/main/assets/simple-banner.png)
 
 # Ashwini Dhumal
 I'm Ashwini, an AWS & DevOps enthusiast from India. I enjoy building cloud infrastructure, automating workflows, and exploring modern DevOps tools and technologies. Always keen on improving my skills and experimenting with new tech.
