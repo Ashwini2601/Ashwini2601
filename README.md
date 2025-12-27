@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kha7iq/kha7iq/main/assets/banner.png" alt="Subtle Professional Banner" width="80%" style="opacity: 0.7; border-radius: 12px;" />
+  <img src="https://raw.githubusercontent.com/kha7iq/kha7iq/main/assets/banner.png" alt="Professional Subtle Banner" width="80%" style="opacity: 0.75; border-radius: 12px;" />
 </p>
+
 
 # Hi, I'm Ashwini Dhumal 👋  
 **AWS & DevOps Enthusiast | Cloud & Automation Engineer**
