@@ -8,9 +8,10 @@ I'm **Ashwini Dhumal** — AWS & DevOps enthusiast 👨‍💻
 ---
 
 ### About Me
-- 🛠 Building home lab projects and exploring cloud infrastructure  
-- 🚀 Learning AWS, Linux, Networking, and DevOps automation  
-- 💻 Passionate about software engineering and continuous learning  
+- 🎮 Leveling up in **AWS & DevOps** — cloud infrastructure is my playground  
+- 🛠 Building home lab projects and automation pipelines  
+- 🚀 Currently mastering **Linux, Docker, Kubernetes & Ansible**  
+- 💡 Fun fact: I prefer **tabs over spaces** 😎  
 
 ---
 
@@ -24,16 +25,24 @@ I'm **Ashwini Dhumal** — AWS & DevOps enthusiast 👨‍💻
 
 ---
 
-### Projects
-- 🌟 [Eternal Vault](https://eternalvault.app) – Secure bridge between your life and loved ones  
-- 💡 DevOps scripts & cloud automation projects  
+### Projects & Achievements
+- 🌟 **Eternal Vault** – Securing data like a boss [Website](https://eternalvault.app)  
+- ⚡ DevOps pipelines & automation scripts — leveling up efficiency  
+- 🏆 Fun project: Raspberry Pi home lab for hands-on learning  
 
 ---
 
-### Contact
+### Gaming Stats Corner 🎮
+- 🕹 **XP:** Continuous learning & coding daily  
+- 💾 **Skill Level:** Linux + Cloud Automation – Intermediate → Pro  
+- 🧩 **Next Quest:** Master Go, Networking & CI/CD pipelines  
+
+---
+
+### Contact Me
 - 📫 Email: me@ashwinidhumal.com  
 - 🌐 Website: [ashwinidhumal.com](https://ashwinidhumal.com)  
-- 💼 LinkedIn: [Ashwini Dhumal](https://linkedin.com/in/AshwiniDhumal)
+- 💼 LinkedIn: [Ashwini Dhumal](https://linkedin.com/in/AshwiniDhumal)  
 
 ---
 
