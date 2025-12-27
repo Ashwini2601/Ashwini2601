@@ -1,6 +1,7 @@
 <!-- Banner / Header Image -->
+<!-- Banner / Header Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashwinidhumal/assets/main/aws-devops-banner.png" alt="AWS & DevOps Banner" width="80%" style="border-radius: 15px;"/>
+  <img src="./assets/aws-devops-banner.png" alt="AWS & DevOps Banner" width="80%" style="border-radius: 15px;"/>
 </p>
 
 ---
